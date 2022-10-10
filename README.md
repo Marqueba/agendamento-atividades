@@ -2,7 +2,7 @@
 
 Projeto introdutório de React, foi desenvolvido um sistema web de agendamentos de atividades.
 
-![preview](./preview/)
+![preview](./preview.png/)
 
 ## Tecnologias
 
